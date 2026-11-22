@@ -125,8 +125,8 @@ DINAH is an AllStarLink radio interface. It plugs into a USB port on the Raspber
 
 ### Hardware
 
-- [DINAH USB-A Construction Manual](DINAH/Hardware/DINAH_USB-A_Construction_Manual.pdf)
-- [DINAH USB-C Construction Manual](DINAH/Hardware/DINAH_USB-C_Construction_Manual.pdf)
+- DINAH USB-A Construction Manual (in work)
+- DINAH USB-C Construction Manual (in work)
 
 ### Other
 
