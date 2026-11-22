@@ -24,7 +24,7 @@ The original SHARI uses separate SA818 modules for UHF and VHF. The model name s
 | Image | Documents |
 |---|---|
 | ASL3 | [ASL3 Setup Procedure Outline Using the SA818](Software/ASL3/ASL3_Setup_Outline_SHARI_SA818.pdf)<br>[Suggested Settings for SHARI Using the ASL3 Image](Software/ASL3/ASL3_Suggested_Settings_SHARI_SA818.pdf) |
-| HamVOIP | [HamVOIP Setup Procedure for SHARI PiHat Using the SA818](Software/HamVOIP/HamVOIP_Setup_Outline_SHARI_SA818.pdf)<br>[HamVOIP Setup Procedure for SHARI PiZero Using the SA818](Software/HamVOIP/HamVOIP_Setup_Outline_SHARI_PiZero_SA818.pdf)<br>[Suggested Settings for SHARI Using the HamVOIP Image](Software/HamVOIP/HamVOIP_Suggested_Settings_SHARI_SA818.pdf) |
+| HamVOIP | [HamVOIP Setup Procedure for SHARI PiHat Using the SA818](Software/HamVOIP/HamVOIP_Setup_Outline_SHARI_SA818.pdf)<br>[HamVOIP Setup Procedure for SHARI PiZero Using the SA818](Software/HamVOIP/HamVOIP_Setup_Outline_SHARI_PiZero_SA818.pdf)<br>[HamVOIP Setup Procedure for SHARI PiXX Using the SA818](Software/HamVOIP/HamVOIP_Setup_Outline_SHARI_PiXX_SA818.pdf)<br>[Suggested Settings for SHARI Using the HamVOIP Image](Software/HamVOIP/HamVOIP_Suggested_Settings_SHARI_SA818.pdf) |
 
 ## Operation
 
